@@ -2,7 +2,8 @@
 
 #### 介绍
 
-[弹球](./moveBall.html)
+[弹球](https://1691014955.github.io/ball/moveBall.html)
+[蹦蹦](https://1691014955.github.io/move/moveBall.html)
 
 #### 软件架构
 
