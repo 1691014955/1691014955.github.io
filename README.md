@@ -1,6 +1,6 @@
 # 弹球动效
 
-#### 效果
+#### 效果-
 
 ###### [弹球](https://1691014955.github.io/ball/moveBall.html)
 
