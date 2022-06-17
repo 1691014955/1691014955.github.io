@@ -24,8 +24,6 @@
 
 ###### [11-svg蒙版和图案](https://1691014955.github.io/12.svg-mengban/index.html)
 
-###### [12-svg渐变](https://1691014955.github.io/11.text-line2/index.html)
-
 ###### [13-svg渐变](https://1691014955.github.io/13.svg-jianbian/index.html)
 
 ###### [loading](https://1691014955.github.io/10.loading/index.html)
